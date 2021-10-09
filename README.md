@@ -5,6 +5,9 @@
 </p>
 <hr>
 
+## Beginner-Hacktoberfest
+Need Your first pr for hacktoberfest 2k21 ? come on in 
+
 ## About
 
 <div align="center">
@@ -22,19 +25,31 @@ This is repository of Responsive Portfolio for Hacktoberfest 2021. Participate i
 </div>
 <hr>
 
-## What is Hacktoberfest? 🎇
+# ❓ What's Hacktoberfest 2021?
 
-Hacktoberfest is a month long celebration of open source software held in the month of October to get people involved in <strong>open-source</strong>. This year's edition is presented by <a target="_blank" href="https://hacktoberfest.digitalocean.com/">DigitalOcean</a>.
+Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/) and [DEV](https://www.dev.to/) this year in 2021.
 
+During the entire month of October 2021, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. It can be a be a bug fix, improvement, or even a documentation change! And win a T-Shirt and awesome stickers.
+
+If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities (and yes, there are always plenty for beginners too).
+
+---
 <br>
 
-## Rules
+# 👕 Why Should I Contribute?
 
-To get a T-shirt, you must make four pull requests between October 1–31 in any timezone. Pull requests can be to any public repo on GitHub, not just the ones we’ve highlighted. The pull request must contain commits you made yourself. Make a pull request to only those repositories which have Hacktoberfest tag on it.
+Hacktoberfest has a simple and plain moto.
 
+> Support open source and earn a limited edition T-shirt!
+
+So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop. On plus side, you will get into beautiful world of open source and get the international exposure.  
+**Wait there's more!**
+
+
+---
 <br>
 
-## How to Contribute Open Source Projects
+# 👍 This is Awesome! How Can I Contribute?
 
 Don't know how to start of open source and Contribute to our Open Source Project ? Welcome to the world of hacking!
 
@@ -91,6 +106,12 @@ The steps to follow to contribute to any projects:
 11. ### Create a PR on Github.
         Just hit the create a pull request button, you must write a PR message to clarify why and what are you contributing
     <hr>
+
+## 🔥 What will happen after my contribution?
+
+I have created a simple page to display all contributors list [here](https://hctnm2.github.io/Beginner-Hacktoberfest/), your name should appear shortly after the pull request is merged.
+
+---
 
 ## Our valuable Contributor :
 
