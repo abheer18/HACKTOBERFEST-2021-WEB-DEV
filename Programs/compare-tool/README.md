@@ -1,4 +1,4 @@
-#Character wise string comparison tool
+# Character wise string comparison tool
 
 Usage:
 
