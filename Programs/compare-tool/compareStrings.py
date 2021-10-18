@@ -3,7 +3,7 @@ import sys
 # total arguments
 print("Total arguments passed: " + str(len(sys.argv)))
 
-assert len(sys.argv)==3, "Expected 2 arguments."
+assert (len(sys.argv) is not 2), "Expected 2 arguments."
 
 s1 = sys.argv[1]
 s2 = sys.argv[2]
