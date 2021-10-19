@@ -69,7 +69,7 @@ The steps to follow to contribute to any projects:
     Open a terminal and run the following git command:
 
     ```
-    git clone "url you just copied"
+    git clone <copied url>
     ```
 
 4.  ### Add a upstream link to main branch in your cloned repo
