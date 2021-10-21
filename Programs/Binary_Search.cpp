@@ -11,7 +11,7 @@ int BinarySearch(int arr[], int size, int element)
 
     while (low <= high)
     {
-        mid = (low + high) / 2;
+        mid = low + (high - low) / 2;
 
         //Check and return location of element, if found
         if (arr[mid] == element)
