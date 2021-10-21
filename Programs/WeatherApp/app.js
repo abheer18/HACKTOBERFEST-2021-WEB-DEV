@@ -7,13 +7,16 @@ const search = document.getElementById("searchUser");
 const button = document.getElementById("submit");
 button.addEventListener("click", () => {
   const currentVal = search.value;
-
+  try{
   ft.getCurrent(currentVal).then((data) => {
     //call a UI method//
     ui.UIload(data);
     //call saveToLS
     ui.saveToLS(data);
   });
+  } catch(err){
+    console.log(err);
+  }
 });
 
 //event listener for local storage
