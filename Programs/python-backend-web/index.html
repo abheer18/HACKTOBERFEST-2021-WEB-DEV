@@ -21,11 +21,9 @@
         fetch("http://localhost:8882/list")
         .then(response => response.json())
         .then(jsonResponse => jsonResponse.forEach(fruit => {
-            
             let o = document.createElement("option")
             o.textContent = fruit
             lstFruit.appendChild(o)
-            
         }))
 
         addFruit.addEventListener("click", e => {
