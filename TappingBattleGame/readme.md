@@ -1,4 +1,4 @@
-#Tapping Battle Game
+# Tapping Battle Game
 
 ### How To Play
 - make sure you have an expo go app installed on your ios or android
@@ -11,4 +11,10 @@
 - whoever reach the 100 first will win
 - note: long press will cause lose immediately
 
-Have Fun, and happy hacktoberfest :)
+Have Fun, and happy hacktoberfest ;)
+
+
+## if you want to run it
+
+- yarn install
+- expo start
