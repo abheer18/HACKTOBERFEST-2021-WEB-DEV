@@ -1,0 +1,14 @@
+ .container
+{
+    border:solid;
+    vertical-align:middle;
+    margin-top:3rem;
+    width: 40rem;
+    height: auto;
+    
+}
+.heading
+{
+    text-align: center;
+    
+}

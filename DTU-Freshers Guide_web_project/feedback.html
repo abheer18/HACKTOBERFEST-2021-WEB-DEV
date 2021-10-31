@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback form</title>
+    <link rel="stylesheet" href="bootstrap.css">
+    <link rel="stylesheet"  type="text/css" href="feedback.css">
+</head>
+<body>
+    <div class="container px-0" >
+        <div class="jumbotron text-center  "  style="background-color: #D3D3D3;">
+          
+            <h4 >YOUR FEEDBACK</h4>
+            <hr>
+      </div>
+      <h5 class="heading" style="color: rgb(46, 142, 221);"> We would like to have your feedback to improve our website</h5>
+      <form class="mx-4">
+        <div class="form-group my-4">
+          <label for="exampleFormControlInput1"> Your Email address</label>
+          <input type="email" class="form-control my-3" id="exampleFormControlInput1" placeholder="name@example.com" required>
+        </div>
+        <div class="form-group my-4">
+          <label for="exampleFormControlSelect1">What are you looking for?</label>
+          <select class="form-control my-3" id="exampleFormControlSelect1">
+            <option>Knowing about internships</option>
+            <option>want to know about scholarships</option>
+            <option>Knowing about socities</option>
+            <option>looking for free book resources</option>
+            <option>something else</option>
+          </select>
+        </div>
+        <div class="form-group my-4">
+          <label for="exampleFormControlSelect2">Do you achieve your goal?</label>
+          <div class="my-3">
+          <button type="button" class="btn btn-primary ">Yes</button>
+          <button type="button" class="btn btn-primary mx-4">No</button>
+          <button type="button" class="btn btn-primary mx-1">Partially</button>
+        </div>
+        
+        <div class="form-group my-4">
+          <label for="exampleFormControlTextarea1">Any suggestions to improve our website </label>
+          <textarea class="form-control my-3" id="exampleFormControlTextarea1" rows="4"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary my-4" >Submit</button>
+      </form>
+    </div>
+    
+</body>
+</html>

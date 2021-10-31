@@ -1,0 +1,198 @@
+
+.jumbotron{
+  
+}
+ #navs .nav-link {
+   color: black;
+   font-weight: bolder;
+   background-color: white;
+   font-size: 20px;
+  
+
+}
+.navbar .button {
+  color: black;
+  font-weight: bolder;
+  background-color: white;
+  font-size: 20px;
+}
+.dropdown .btn-light {
+  color: black;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+
+#jumbo
+{ 
+ background-color: white;
+  text-decoration: wavy;
+  text-shadow:#880AD1;
+  font-size: 70px;
+  font-weight: 100rem;
+  color:black;
+  font-family:cursive;
+  height: 100px;
+  padding-bottom: 100px;
+}
+.fa-dove {
+    color:#880AD1;
+    padding-right: 2px;
+}
+
+
+#hover a:hover{
+  color:blue;
+}
+
+@media (min-width: 600px) {
+   #bt  {
+      margin: 5px 10px; 
+    }
+  }
+ 
+  @media (max-width: 600px) {
+    .text h1 {
+       margin-top: 100px; 
+     }
+   }
+   @media (min-width: 600px) {
+    .text h1 {
+       margin-top: 300px; 
+     }
+   }
+ 
+   @media (min-width: 600px) {
+    #k1 {
+      margin-left: auto; 
+      margin-right:auto;
+     }
+   }
+   @media (min-width: 300px) {
+    #k2 {
+      margin-top:400px
+     }
+   }
+   @media (max-width: 600px) {
+    #k1 {
+      margin-left: 10px; 
+     
+     }
+   }
+
+
+
+   .heading
+{
+    text-align: center;
+    
+}
+.size
+{
+    height: 50rem;
+}
+
+#card {
+    margin-left: auto;
+    margin-right: auto;
+}
+.aos-animate
+{
+    transition-timing-function: ease;
+    transition-duration: .4s;
+}
+
+.container1
+{   position: absolute;
+    z-index: -3;
+    background-color:#b6ddda;
+    height: 35rem;
+    width:auto; #64aca6
+
+}
+.container1{
+    /* ... */
+    position: relative;
+  }
+  
+  .box{
+   
+      height: 100%;
+      background-color:rgb(146, 146, 235);
+      height: 100%;
+     
+  }
+  .box1
+  {
+    margin-top: 100px;
+    position:relative;
+    background-color: white;
+    height:300px;
+  }
+
+  #topq  h3{
+    margin-top: 100px;
+  font-size: 40px;
+  font-family: 'Ubuntu', sans-serif;
+    margin-bottom: auto;
+    font-weight: bolder;
+  }
+  #topq button{
+    margin-left: 68%;
+    margin-top: 30px;
+    border: 3px solid;
+    font-weight: bolder;
+    font-size: 15px;
+    
+  }
+
+  #topq  h4{
+    margin-top: 100px;
+    margin-left: 50%;
+  font-size: 25px;
+  font-family: 'Ubuntu', sans-serif;
+    margin-bottom: auto;
+    font-weight: bold;
+  }
+  .container1::before {
+    background: url('svg.png') center bottom no-repeat;
+    bottom: 100%;
+    content: '';
+    height: 103px;
+    position: absolute;
+    width: 100%;
+    background-color: white;
+  }
+  .text
+  {      position:absolute;
+      text-align: centre;
+      
+  }
+  .img-fluid
+  {
+      padding-bottom: 0rem;
+  }
+
+
+  
+
+
+  .insetshadow {
+    color: #202020;
+    letter-spacing: .1em;
+    text-shadow: 
+      -1px -1px 1px #111, 
+      2px 2px 1px #363636;
+  }
+  .retroshadow {
+    color: #2c2c2c;
+   
+    letter-spacing: .05em;
+    text-shadow: 
+      4px 4px 0px #d5d5d5, 
+      7px 7px 0px rgba(0, 0, 0, 0.2);
+  }
+
+
+
+ 
